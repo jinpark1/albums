@@ -17,4 +17,11 @@ const AlbumDetail = (props) => {
     );
 };
 
+const styles = {
+    headerContentStyle: {
+        flexDirection: 'column',
+        justifyContent: 
+    }
+}
+
 export default AlbumDetail;
